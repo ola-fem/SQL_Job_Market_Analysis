@@ -1,3 +1,5 @@
+/* Operacje na tabelach */
+
 CREATE TABLE job_applied
   (
      job_id                 INT,

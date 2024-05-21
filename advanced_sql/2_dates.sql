@@ -1,3 +1,5 @@
+/* nOperacje na datach */
+
 SELECT
     job_title_short,
     job_location,

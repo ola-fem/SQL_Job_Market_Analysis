@@ -1,8 +1,8 @@
 /* 
-Label new column as follows based on job_location:
-- 'Anywhere' jobs as 'Remote'
-- 'New York, NY' jobs as  'Local'
-- Otherwise 'Onsite'
+Oznaczenie nowej kolumny w następujący sposób na podstawie job_location:
+- 'Anywhere' jobs jako 'Remote'
+- Lokalizacja „Nowy Jork, NY” jako „Local"
+- W przeciwnym razie „Onsite"
 */
 
 SELECT 

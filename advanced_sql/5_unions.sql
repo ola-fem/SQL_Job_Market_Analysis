@@ -1,4 +1,4 @@
--- Get jobs and companies from January
+-- Oferty pracy i  nazwy firm ze stycznia
 SELECT 
 	job_title_short,
 	company_id,
@@ -8,7 +8,7 @@ FROM
 
 UNION ALL
 
--- Get jobs and companies from February 
+-- Oferty pracy i  nazwy firm z lutego
 SELECT 
 	job_title_short,
 	company_id,
@@ -16,9 +16,9 @@ SELECT
 FROM
 	february_jobs
 
-UNION ALL -- combine another table
+UNION ALL -- połączenie kolejnej tabeli
 
--- Get jobs and companies from March
+-- Oferty pracy i  nazwy firm z marca
 SELECT 
 	job_title_short,
 	company_id,

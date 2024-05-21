@@ -1,9 +1,10 @@
 /*
-Look at companies that don’t require a degree 
-- Degree requirements are in the job_posting_fact table
-- Use subquery to filter this in the company_dim table for company_names
-- Order by the company name alphabetically
+Sprawdzenie firm, które nie wymagają dyplomu(stopnia naukowego) 
+- Wymagania dotyczące stopnia naukowego znajdują się w tabeli job_posting_fact.
+- Użycie podzapytania, aby przefiltrować to w tabeli company_dim dla company_names
+- uporządkowane alfabetycznie według nazwy firmy
 */
+
 SELECT
     company_id,
     name AS company_name 
@@ -23,9 +24,9 @@ ORDER BY
     name ASC
 
 /*
-Find the companies that have the most job openings. 
-- Get the total number of job postings per company id (job_posting_fact)
-- Return the total number of jobs with the company name (company_dim)
+Znalezienie firm, które mają najwięcej ofert pracy. 
+- Uzyskanie całkowitej liczby ofert pracy według identyfikatora firmy (job_posting_fact)
+- Zwrócenie całkowitej liczby ofert pracy z nazwą firmy (company_dim)
 */
 
 WITH company_job_count AS (
