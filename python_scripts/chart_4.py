@@ -6,7 +6,7 @@ import seaborn as sns
 file_path = r'C:\Users\olafe\Desktop\4_top_paying_skills.csv'
 data = pd.read_csv(file_path)
 
-# Wybierz 10 umiejętności z najwyższym średnim wynagrodzeniem
+#  10 umiejętności z najwyższym średnim wynagrodzeniem
 top_10_skills = data.nlargest(10, 'avg_salary')
 
 # Utworzenie wykresu

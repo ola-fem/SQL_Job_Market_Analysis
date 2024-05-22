@@ -18,7 +18,7 @@ avg_salaries = data['salary_year_avg']
 # Ustawienie palety kolorów na fioletową gradację
 colors = sns.color_palette("Purples_r", len(job_titles))  # "_r" odwraca kolejność kolorów
 
-# Tworzenie wykresu z szarym tłem wykresu i białym tłem poza wykresem
+# Tworzenie wykresu 
 plt.figure(figsize=(10, 8))
 plt.barh(job_titles, avg_salaries, color=colors)
 plt.xlabel('Średnie wynagrodzenie ($)')
