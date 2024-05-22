@@ -1,0 +1,5 @@
+# Ensure SQL is recognized as the primary language
+*.sql linguist-detectable=true
+
+# Include Python scripts for visualizations
+*.py linguist-detectable=true
