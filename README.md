@@ -250,7 +250,7 @@ Oto zestawienie najbardziej optymalnych umiejętności Analityków Danych w 2023
 
 
 
-# Wnioski
+# Wnioski 📊
 
 ### Spostrzeżenia
 Z analizy wyłoniło się kilka ogólnych wniosków:
