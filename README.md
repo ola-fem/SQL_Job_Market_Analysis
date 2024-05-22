@@ -57,7 +57,7 @@ Oto zestawienie najlepszych stanowisk analityka danych w 2023 roku:
 - **Zróżnicowani pracodawcy:** Firmy takie jak SmartAsset, Meta i AT&T są jednymi z tych, które oferują wysokie wynagrodzenia, co wskazuje na szerokie zainteresowanie w różnych branżach.
 - **Różnorodność tytułów stanowisk:** Istnieje duża różnorodność tytułów stanowisk, od analityka danych po dyrektora ds. analityki, co odzwierciedla różne role i specjalizacje w analityce danych.
 
-![Najlepiej płatne stanowsika](assets\1_top_paying_jobs.png)
+![Najlepiej płatne stanowsika](assets/1_top_paying_jobs.png)
 
 *Wykres słupkowy wizualizujący wynagrodzenie dla 10 najlepiej opłacanych stanowisk analityków danych; wykres wygenerowany w języku python na podstawie wyników zapytania SQL*.
 
@@ -100,7 +100,7 @@ Oto zestawienie najbardziej pożądanych umiejętności dla 10 najlepiej płatny
 Inne umiejętności, takie jak **R**, **Snowflake**, **Pandas** i **Excel** wykazują różny stopień popytu.
 
 
-![Najlepiej płatne umiejętności](assets\2_top_paying_job_skills.png)
+![Najlepiej płatne umiejętności](assets/2_top_paying_job_skills.png)
 *Wykres słupkowy wizualizujący liczbę umiejętności dla 10 najlepiej płatnych zawodów dla analityków danych; wykres wygenerowany w języku python na podstawie wyników zapytania SQL*.
 
 ### 3. Najbardziej pożądane umiejętności analityków danych
@@ -128,7 +128,7 @@ Oto zestawienie najbardziej poszukiwanych umiejętności dla analityków danych 
 - **SQL** i **Excel** pozostają fundamentalne, podkreślając potrzebę posiadania silnych umiejętności podstawowych w zakresie przetwarzania danych i manipulacji arkuszami kalkulacyjnymi.
 - Narzędzia do **programowania** i **wizualizacji**, takie jak **Python**, **Tableau** i **Power BI** są niezbędne, wskazując na rosnące znaczenie umiejętności technicznych. 
 
-![Umiejętności pożądane](assets\3_top_demanded_skills.png)
+![Umiejętności pożądane](assets/3_top_demanded_skills.png)
 *Wykres słupkowy umiejętności najczęściej wymaganych w ofertach pracy dla analityków danych; wykres wygenerowany w języku python na podstawie wyników zapytania SQL*.
 
 | Skills   | Demand Count |
@@ -166,7 +166,7 @@ Oto zestawienie wyników dla najlepiej płatnych umiejętności dla analityków 
 - **Biegłość w tworzeniu i wdrażaniu oprogramowania:** Znajomość narzędzi programistycznych i wdrożeniowych (GitLab, Kubernetes, Airflow) wskazuje na lukratywne skrzyżowanie analizy danych i inżynierii, z naciskiem na umiejętności ułatwiające automatyzację i wydajne zarządzanie potokiem danych.
 - **Doświadczenie w przetwarzaniu w chmurze:** Znajomość chmury obliczeniowej i narzędzi inżynierii danych (Elasticsearch, Databricks, GCP) podkreśla rosnące znaczenie środowisk analitycznych opartych na chmurze, sugerując, że biegłość w chmurze znacznie zwiększa potencjał zarobkowy w analityce danych.
 
-![Najlepiej płatne umiejętności](assets\4_top_paying_skills.png)
+![Najlepiej płatne umiejętności](assets/4_top_paying_skills.png)
 *Wykres słupkowy najlepiej płatnych umiejętności w ofertach pracy dla analityków danych; wykres wygenerowany w języku python na podstawie wyników zapytania SQL*.
 
 | Skills        | Average Salary ($) |
@@ -210,7 +210,7 @@ ORDER BY
     demand_count DESC
 LIMIT 25;
 ```
-![OPtymalne umiejętności](assets\5_optimal_skills.png)
+![OPtymalne umiejętności](assets/5_optimal_skills.png)
 *Wykres punktowy prezentujący zależność między liczbą wystąpień a średnim wynagrodzeniem dla umiejętności dla analityków danych; wykres wygenerowany w języku python na podstawie wyników zapytania SQL*.
 
 
