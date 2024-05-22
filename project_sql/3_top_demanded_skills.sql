@@ -1,5 +1,5 @@
 /*
-Pytanie: Jakie są najbardziej pożądane umiejętności analityków danych (praca zdalna)?
+ Pytanie: Jakie są najbardziej pożądane umiejętności analityków danych (praca zdalna)?
 */
 
 

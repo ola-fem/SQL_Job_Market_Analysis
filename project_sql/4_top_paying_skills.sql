@@ -1,5 +1,5 @@
 /*
-Pytanie: Jakie są najlepiej płatne umiejętności analityków danych?
+ Pytanie: Jakie są najlepiej płatne umiejętności analityków danych?
 */
 
 SELECT 

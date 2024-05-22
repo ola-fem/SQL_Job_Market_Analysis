@@ -1,5 +1,5 @@
 /*
-Pytanie: Jakie umiejętności są wymagane na najlepiej płatnych stanowiskach analityka danych?
+ Pytanie: Jakie umiejętności są wymagane na najlepiej płatnych stanowiskach analityka danych?
 */
 
 WITH top_paying_jobs AS (

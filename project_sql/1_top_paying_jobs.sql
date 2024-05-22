@@ -1,5 +1,5 @@
 /*
-Pytanie: Jakie są najlepiej płatne stanowiska analityka danych?
+ Pytanie: Jakie są najlepiej płatne stanowiska analityka danych?
 */
 
 SELECT

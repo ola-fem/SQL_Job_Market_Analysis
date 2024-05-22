@@ -1,4 +1,5 @@
-/* Pytanie: Jakie umiejętności są najbardziej optymalne do nauczenia się 
+/* 
+ Pytanie: Jakie umiejętności są najbardziej optymalne do nauczenia się 
 (czyli jest to umiejętność, na którą jest duże zapotrzebowanie i która jest dobrze płatna)?
 */
 
